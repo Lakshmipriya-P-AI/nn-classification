@@ -35,7 +35,7 @@ You are required to help the manager to predict the right group of the new custo
 
    9. Plot a graph for Training Loss, Validation Loss Vs Iteration & for Accuracy, Validation Accuracy vs Iteration
 
-   10 Save the model using pickle
+  10. Save the model using pickle
 
    11. Using the DL model predict for some random inputs
 
